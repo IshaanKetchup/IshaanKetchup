@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Ishaan Kashyap
-[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
 ![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
@@ -34,6 +34,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
 5. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
    My first major coding project! A discord bot with Reddit, GoogleNews, Image Editing, MiniGames and more!
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?IshaanKetchup" frameborder="0"></iframe>
 ---
 
 ### 🧩 Current Interests
