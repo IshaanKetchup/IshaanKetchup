@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Ishaan Kashyap
-
+[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup)](https://github.com/anuraghazra/github-readme-stats)
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
 ![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
