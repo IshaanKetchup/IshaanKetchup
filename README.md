@@ -1,5 +1,8 @@
 # 👋 Hello! I'm [Ishaan]
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
+![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
+![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
+
 Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
 ---
