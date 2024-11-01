@@ -39,7 +39,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
 ---
 
 ### 📫 Let’s Connect!
-- **[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ishaan-kashyap/))** 
+- **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
 - **[Email](kshypishn@gmail.com)** 
 
 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or innovative ideas!
