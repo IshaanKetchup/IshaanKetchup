@@ -1,4 +1,5 @@
-# 👋 Hello! I'm [Ishaan]
+# 👋 Hello! I'm ![Static Badge](https://img.shields.io/badge/ISHAAN-purple)
+
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
 ![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
