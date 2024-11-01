@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
 ![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Computer%20Vision-orange)
 
 Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
@@ -39,7 +40,8 @@ Below are some of my favorite projects that showcase my expertise and interests.
 - **Exploring machine learning** for computer vision and network intrusion detection.
 - **Building interactive and accessible applications** to bridge the gap between technology and usability.
 - **Deepening my knowledge of reinforcement learning** in AI-focused projects.
-- **Diving deeper into CyberSecurity** by working my way through OverTheWire
+- **Diving deeper into CyberSecurity** by working my way through OverTheWire!
+- **Part of the AIML team** at the official RoboSoccer team of VIT-Vellore!
 
 ---
 
