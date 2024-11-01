@@ -34,7 +34,8 @@ Below are some of my favorite projects that showcase my expertise and interests.
 5. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
    My first major coding project! A discord bot with Reddit, GoogleNews, Image Editing, MiniGames and more!
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?IshaanKetchup" frameborder="0"></iframe>
+[View GitHub Profile Languages](https://ionicabizau.github.io/github-profile-languages/api.html?IshaanKetchup)
+
 ---
 
 ### 🧩 Current Interests
