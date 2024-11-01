@@ -39,6 +39,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
 ---
 
 ### 📫 Let’s Connect!
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 - **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
 - **[Email](kshypishn@gmail.com)** 
 
