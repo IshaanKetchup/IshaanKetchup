@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Ishaan]
 
-Welcome to my GitHub! I'm a passionate Python developer with a focus on [areas of interest, e.g., machine learning, computer vision, web development]. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
+Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
 ---
 
