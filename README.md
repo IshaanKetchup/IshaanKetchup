@@ -1,4 +1,4 @@
-# 👋 Hello! I'm ![Static Badge](https://img.shields.io/badge/ISHAAN-purple)
+# 👋 Hello! I'm Ishaan Kashyap
 
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
