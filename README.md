@@ -1,10 +1,8 @@
-# 👋 Hello! I'm Ishaan Kashyap
-![icegif-764](https://github.com/user-attachments/assets/7e201ada-2576-4d83-b163-05bce5a0b362)
+<table>
+  <tr>
+    <td>
 
-![Static Badge](https://img.shields.io/badge/PYTHON-blue)
-![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
-![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
-![Static Badge](https://img.shields.io/badge/COMPUTER%20VISION-orange)
+# 👋 Hello! I'm Ishaan Kashyap
 
 Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
@@ -50,7 +48,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ### 📫 Let’s Connect!
 - **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
-- **[Email](kshypishn@gmail.com)** 
+- **[Email](mailto:kshypishn@gmail.com)** 
 
 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or innovative ideas!
 
@@ -62,3 +60,10 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 - Enjoys reading, basketball, and videogames  🧠
 
 Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star ⭐ or fork 🍴 one of my repos!
+
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/7e201ada-2576-4d83-b163-05bce5a0b362" width="300" height="300"/>
+    </td>
+  </tr>
+</table>
