@@ -56,8 +56,8 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 ---
 
 ### 🎉 Fun Facts
-- Based in Vellore 🏙️
-- A huge fan of Metal music 🎶
-- Enjoys solving logic puzzles and brain teasers 🧠
+- Studying in Vellore 🏙️
+- A huge fan of Metal, Rock, Jazz and Piano music 🎶
+- Enjoys reading, basketball, and videogames  🧠
 
 Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star ⭐ or fork 🍴 one of my repos!
