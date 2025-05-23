@@ -10,6 +10,8 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 ----> [My Resume](https://ishaanketchup.github.io/)
 
 ---
+### Stats
+[![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Technologies & Tools
 - **Programming Languages**: Python, JavaScript, C++
