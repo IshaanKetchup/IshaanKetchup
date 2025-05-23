@@ -22,15 +22,12 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 ### 🌟 Featured Projects
 Below are some of my favorite projects that showcase my expertise and interests. Feel free to dive in!
 
-1. **[NaviNose](https://github.com/IshaanKetchup/NaviNose)**  
+1. **[eCPI - pocket Collective Pitch Indicator](https://github.com/IshaanKetchup/eCPI)**  
+   Android application to replicate the function of CPI (Collective Pitch Indicator) in Cheetah/Chetak Helicopters. Goal is to simplify and enable easier pre-flight calculations for pilots.
+2. **[NaviNose](https://github.com/IshaanKetchup/NaviNose)**  
    A real-time cursor control program using OpenCV and Mediapipe that interprets hand gestures for on-screen navigation. Includes gesture-based scrolling for an enhanced, touch-free experience.
-
-2. **[ResNet18 Image Classification](https://github.com/IshaanKetchup/ResNet18-on-CIFAR10)**  
-   Implemented ResNet18 on CIFAR-10 for image classification. This project strengthened my understanding of convolutional neural networks and image processing.
-
 3. **[ASL to English Alphabet Translator](https://github.com/IshaanKetchup/ASLtoEnglish)**  
    A translation tool that maps 24 ASL alphabets to their English counterparts using computer vision techniques. This was a finalist project at HackBattle'23.
-
 4. **[SkyScope - Online Weather App](https://github.com/IshaanKetchup/SkyScope)**  
    A weather app that provides real-time updates using APIs. Built with HTML, CSS, and JavaScript, this project highlights my frontend skills and interest in UI design.
 5. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
