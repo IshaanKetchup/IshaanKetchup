@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+
 # 👋 Hello! I'm Ishaan Kashyap
 
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
@@ -7,8 +11,14 @@
 
 Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
+[My Resume](https://ishaanketchup.github.io/)
 
-----> [My Resume](https://ishaanketchup.github.io/)
+</td>
+    <td width="35%">
+      <img src="[https://your-placeholder-gif-link-here.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BlOW83Zml5d3RnenR6a3phNDZkb3hiZzgyd3JqNHNvMGV6cXBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxOCeOBHIb5V3hmP6/giphy.gif)" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -17,9 +27,12 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 - **Markup Languages**: HTML, LaTeX
 - **Frameworks & Libraries**: PyTorch, OpenCV, Pycord, Selenium
 - **Databases**: MySQL
-- 
+
+---
+
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact)
+
 ---
 
 ### 🌟 Featured Projects
@@ -50,20 +63,21 @@ Below are some of my favorite projects that showcase my expertise and interests.
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup&show_icons=true&theme=dark)
 
-
+---
 
 ### 📫 Let’s Connect!
 - **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
-- **[Email](kshypishn@gmail.com)** 
+- **[Email](mailto:kshypishn@gmail.com)** 
 
 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or innovative ideas!
 
 ---
 
 ### 🎉 Fun Facts
-- Studying in Vellore 🏙️
-- A huge fan of Metal, Rock, Jazz and Piano music 🎶
-- Enjoys reading, basketball, and videogames  🧠
+- Studying in Vellore  
+- A huge fan of Metal, Rock, Jazz and Piano music  
+- Enjoys reading, basketball, and videogames  
 
-Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star ⭐ or fork 🍴 one of my repos!
-![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)
+Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star or fork one of my repos!  
+![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IshaanKetchup&theme=github-dark)
