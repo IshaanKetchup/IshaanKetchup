@@ -22,16 +22,27 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 
 ---
 
-### 🛠️ Technologies & Tools
+<table>
+  <tr>
+    <td width="60%">
+
+<h3>🛠️ Technologies & Tools</h3>
+
 - **Programming Languages**: Python, JavaScript, C++
-- **Markup Languages**: HTML, LaTeX
-- **Frameworks & Libraries**: PyTorch, OpenCV, Pycord, Selenium
-- **Databases**: MySQL
+- **Markup Languages**: HTML, LaTeX  
+- **Frameworks & Libraries**: PyTorch, OpenCV, Pycord, Selenium  
+- **Databases**: MySQL  
 
----
+</td>
+    <td align="center" width="40%">
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact)
+<h3>🔥 Most Used Languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact" />
+
+</td>
+  </tr>
+</table>
 
 ---
 
