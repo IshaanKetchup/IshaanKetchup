@@ -71,16 +71,19 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ---
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup&show_icons=true&theme=dark)
+<h3>📫 Let’s Connect!</h3>
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/ishaan-kashyap/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://instagram.com/ishaan.ketchup" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
+  </a>
+</p>
 
-### Let’s Connect!
-- **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
-- **[Email](mailto:kshypishn@gmail.com)** 
-
-Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or innovative ideas!
+Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or anything else really
 
 ---
 
