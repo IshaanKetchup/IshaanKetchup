@@ -7,7 +7,6 @@
 
 Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
 
-![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)
 
 ----> [My Resume](https://ishaanketchup.github.io/)
 
@@ -18,7 +17,9 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 - **Markup Languages**: HTML, LaTeX
 - **Frameworks & Libraries**: PyTorch, OpenCV, Pycord, Selenium
 - **Databases**: MySQL
-
+- 
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact)
 ---
 
 ### 🌟 Featured Projects
@@ -46,6 +47,11 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ---
 
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup&show_icons=true&theme=dark)
+
+
+
 ### 📫 Let’s Connect!
 - **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
 - **[Email](kshypishn@gmail.com)** 
@@ -60,3 +66,4 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 - Enjoys reading, basketball, and videogames  🧠
 
 Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star ⭐ or fork 🍴 one of my repos!
+![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)
