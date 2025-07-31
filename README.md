@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-# 👋 Hello! I'm Ishaan Kashyap
+# Hello! I'm Ishaan Kashyap
 
 ![Static Badge](https://img.shields.io/badge/PYTHON-blue)
 ![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 Below are some of my favorite projects that showcase my expertise and interests. Feel free to dive in!
 
 1. **[eCPI - pocket Collective Pitch Indicator](https://github.com/IshaanKetchup/eCPI)**  
@@ -62,7 +62,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ---
 
-### 🧩 Current Interests
+### Current Interests
 - **Exploring machine learning** for computer vision and network intrusion detection.
 - **Building interactive and accessible applications** to bridge the gap between technology and usability.
 - **Deepening my knowledge of reinforcement learning** in AI-focused projects.
@@ -71,12 +71,12 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanKetchup&show_icons=true&theme=dark)
 
 ---
 
-### 📫 Let’s Connect!
+### Let’s Connect!
 - **[LinkedIn](https://www.linkedin.com/in/ishaan-kashyap/)** 
 - **[Email](mailto:kshypishn@gmail.com)** 
 
