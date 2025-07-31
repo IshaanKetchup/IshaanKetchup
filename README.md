@@ -36,9 +36,8 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 </td>
     <td align="center" width="40%">
 
-<h3>🔥 Most Used Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact&theme=default&title_color=hex&text_color=hex&bg_color=hex" />
 
 </td>
   </tr>
