@@ -50,13 +50,14 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 1. **[eCPI - pocket Collective Pitch Indicator](https://github.com/IshaanKetchup/eCPI)**  
    Android application to replicate the function of CPI (Collective Pitch Indicator) in Cheetah/Chetak Helicopters. Goal is to simplify and enable easier pre-flight calculations for pilots.
-2. **[NaviNose](https://github.com/IshaanKetchup/NaviNose)**  
+   Download from PlayStore [here](https://play.google.com/store/apps/details?id=com.IshaanKetchup.pat&pcampaignid=web_share)
+3. **[NaviNose](https://github.com/IshaanKetchup/NaviNose)**  
    A real-time cursor control program using OpenCV and Mediapipe that interprets hand gestures for on-screen navigation. Includes gesture-based scrolling for an enhanced, touch-free experience.
-3. **[ASL to English Alphabet Translator](https://github.com/IshaanKetchup/ASLtoEnglish)**  
+4. **[ASL to English Alphabet Translator](https://github.com/IshaanKetchup/ASLtoEnglish)**  
    A translation tool that maps 24 ASL alphabets to their English counterparts using computer vision techniques. This was a finalist project at HackBattle'23.
-4. **[SkyScope - Online Weather App](https://github.com/IshaanKetchup/SkyScope)**  
+5. **[SkyScope - Online Weather App](https://github.com/IshaanKetchup/SkyScope)**  
    A weather app that provides real-time updates using APIs. Built with HTML, CSS, and JavaScript, this project highlights my frontend skills and interest in UI design.
-5. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
+6. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
    My first major coding project! A discord bot with Reddit, GoogleNews, Image Editing, MiniGames and more!
 
 ---
