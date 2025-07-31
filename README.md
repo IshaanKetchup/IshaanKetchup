@@ -94,4 +94,3 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 
 Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star or fork one of my repos!  
 ![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IshaanKetchup&theme=github-dark)
