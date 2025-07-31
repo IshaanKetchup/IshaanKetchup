@@ -71,13 +71,13 @@ Below are some of my favorite projects that showcase my expertise and interests.
 
 ---
 
-<h3>📫 Let’s Connect!</h3>
+<h3> Let’s Connect!</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ishaan-kashyap/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/ishaan.ketchup" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
   </a>
