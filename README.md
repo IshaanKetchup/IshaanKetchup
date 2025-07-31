@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
 
 </td>
     <td width="35%">
-      <img src=[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BlOW83Zml5d3RnenR6a3phNDZkb3hiZzgyd3JqNHNvMGV6cXBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxOCeOBHIb5V3hmP6/giphy.gif]" width="100%" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BlOW83Zml5d3RnenR6a3phNDZkb3hiZzgyd3JqNHNvMGV6cXBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxOCeOBHIb5V3hmP6/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
