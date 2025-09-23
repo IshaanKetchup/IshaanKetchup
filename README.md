@@ -78,7 +78,7 @@ Below are some of my favorite projects that showcase my expertise and interests.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/ishaan.ketchup" target="_blank">
+  <a href="https://instagram.com/ishaanketchup" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
   </a>
 </p>
