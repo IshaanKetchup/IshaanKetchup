@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate Python developer with a focus on machine 
     <td align="center" width="40%">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup&layout=compact&theme=default&title_color=hex&text_color=hex&bg_color=hex" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup"/>
 
 </td>
   </tr>
