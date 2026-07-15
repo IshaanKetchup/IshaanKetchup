@@ -40,7 +40,7 @@ I enjoy building security-focused software, from intrusion detection systems and
 
 <tr>
 
-<td width="60%">
+<td width="50%">
 
 ## Technologies
 
@@ -74,7 +74,7 @@ I enjoy building security-focused software, from intrusion detection systems and
 
 </td>
 
-<td align="center" width="40%">
+<td align="center" width="50%">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IshaanKetchup&layout=donut-vertical&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IshaanKetchup&layout=donut-vertical&langs_count=7&theme=dark)
 </td>
