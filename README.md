@@ -1,96 +1,246 @@
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
 
 # Hello! I'm Ishaan Kashyap
 
-![Static Badge](https://img.shields.io/badge/PYTHON-blue)
-![Static Badge](https://img.shields.io/badge/CYBERSECURITY-red)
-![Static Badge](https://img.shields.io/badge/AI%2FML-8A2BE2)
-![Static Badge](https://img.shields.io/badge/COMPUTER%20VISION-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat-square)
+![Security Engineering](https://img.shields.io/badge/Security-Engineering-darkred?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blueviolet?style=flat-square)
 
-Welcome to my GitHub! I'm a passionate Python developer with a focus on machine learning, computer vision, web development, and cybersecurity. Here, you'll find a mix of personal projects, collaborations, and experiments across various domains, with the goal of building impactful software solutions and honing my skills. Whether you're here to check out my work, collaborate, or get inspiration, I hope you find something interesting!
+Computer Science undergraduate at **VIT Vellore** with interests in **Cybersecurity, Security Engineering, Detection Engineering and Backend Development**.
 
-[My Resume](https://ishaanketchup.github.io/)
+I enjoy building security-focused software, from intrusion detection systems and secure web applications to developer security tooling. My repositories primarily focus on Python, security engineering, and practical software development.
+
+**Current Focus**
+- Detection Engineering
+- Secure Software Development
+- Network Security
+- Python Development
+
+**Links**
+
+- Resume: https://ishaanketchup.github.io/
+- LinkedIn: https://linkedin.com/in/ishaan-kashyap
 
 </td>
-    <td width="35%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BlOW83Zml5d3RnenR6a3phNDZkb3hiZzgyd3JqNHNvMGV6cXBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxOCeOBHIb5V3hmP6/giphy.gif" width="100%" />
-    </td>
-  </tr>
+
+<td width="35%">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BlOW83Zml5d3RnenR6a3phNDZkb3hiZzgyd3JqNHNvMGV6cXBoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxOCeOBHIb5V3hmP6/giphy.gif" width="100%" />
+
+</td>
+</tr>
 </table>
 
 ---
 
 <table>
-  <tr>
-    <td width="60%">
 
-<h3>🛠️ Technologies & Tools</h3>
+<tr>
 
-- **Programming Languages**: Python, JavaScript, C++
-- **Markup Languages**: HTML, LaTeX  
-- **Frameworks & Libraries**: PyTorch, OpenCV, Pycord, Selenium  
-- **Databases**: MySQL  
+<td width="60%">
+
+## Technologies
+
+### Languages
+- Python
+- Java
+- SQL
+- JavaScript
+- C++
+
+### Security
+- Flask
+- OWASP ZAP
+- Wireshark
+- Nmap
+- Hack The Box
+- Linux
+- Elasticsearch
+- Kibana
+
+### AI / ML
+- PyTorch
+- TensorFlow
+- OpenCV
+- MediaPipe
+
+### Tools
+- Git
+- Docker
+- MySQL
 
 </td>
-    <td align="center" width="40%">
 
+<td align="center" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanKetchup"/>
 
 </td>
-  </tr>
+
+</tr>
+
 </table>
 
 ---
 
-### Featured Projects
-Below are some of my favorite projects that showcase my expertise and interests. Feel free to dive in!
+# Featured Projects
 
-1. **[eCPI - pocket Collective Pitch Indicator](https://github.com/IshaanKetchup/eCPI)**  
-   Android application to replicate the function of CPI (Collective Pitch Indicator) in Cheetah/Chetak Helicopters. Goal is to simplify and enable easier pre-flight calculations for pilots.
-   Download from PlayStore [here](https://play.google.com/store/apps/details?id=com.IshaanKetchup.pat&pcampaignid=web_share)
-2. **[Network Intrusion Detection and Security Monitoring Platform]([https://github.com/IshaanKetchup/NaviNose](https://github.com/IshaanKetchup/Mini-IDS))**  
-   A Python-based intrusion detection system that monitors network traffic and detects SYN, FIN, NULL, XMAS, UDP, and ARP-based attacks. Integrated with Elasticsearch and Kibana for real time alert analysis and monitoring
-3. **[ASL to English Alphabet Translator](https://github.com/IshaanKetchup/ASLtoEnglish)**  
-   A translation tool that maps 24 ASL alphabets to their English counterparts using computer vision techniques. This was a finalist project at HackBattle'23.
-4. **[SkyScope - Online Weather App](https://github.com/IshaanKetchup/SkyScope)**  
-   A weather app that provides real-time updates using APIs. Built with HTML, CSS, and JavaScript, this project highlights my frontend skills and interest in UI design.
-5. **[ChimkenBot - Discord Bot](https://github.com/IshaanKetchup/ChimkenBot)**
-   My first major coding project! A discord bot with Reddit, GoogleNews, Image Editing, MiniGames and more!
+## Network Intrusion Detection and Security Monitoring Platform
 
----
+Python-based IDS capable of detecting SYN, FIN, NULL, XMAS, UDP and ARP attacks.
 
-### Current Interests
-- **Exploring machine learning** for computer vision and network intrusion detection.
-- **Building interactive and accessible applications** to bridge the gap between technology and usability.
-- **Deepening my knowledge of reinforcement learning** in AI-focused projects.
-- **Diving deeper into CyberSecurity** by working my way through OverTheWire!
-- **Part of the AIML team** at the official RoboSoccer team of VIT-Vellore!
+### Highlights
+
+- Real-time packet inspection
+- Modular detection pipeline
+- Flask dashboard
+- Elasticsearch alert indexing
+- Kibana visualization
+- Docker deployment
+
+**Repository:** https://github.com/IshaanKetchup/Mini-IDS
 
 ---
 
-<h3> Let’s Connect!</h3>
+## Secure Library Management System
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishaan-kashyap/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/ishaanketchup" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
-  </a>
+A security-first Flask web application demonstrating secure software engineering practices.
+
+### Features
+
+- Role Based Access Control (RBAC)
+- CSRF Protection
+- Secure Password Hashing
+- Centralized Audit Logging
+- OWASP Secure Coding
+- Security Headers
+- SQL Injection Prevention
+
+---
+
+## SafeCommit
+
+Pre-commit Git secret scanner designed to prevent accidental credential leaks.
+
+### Features
+
+- Regex-based secret detection
+- Blocks unsafe commits
+- Lightweight
+- Easily extensible
+
+---
+
+## NL2SQL Chatbot
+
+Natural language to SQL assistant supporting multiple LLM providers.
+
+- Multi-model fallback
+- SQL generation
+- Backend API integration
+
+---
+
+## Multimodal Deepfake Detection Framework
+
+Lightweight multimodal deepfake detection research project.
+
+- 94.3% Accuracy
+- 98% AUC
+- CelebDF Dataset
+
+---
+
+## eCPI
+
+Android application replicating the Collective Pitch Indicator used in Cheetah and Chetak helicopters.
+
+Available on Google Play.
+
+---
+
+# Experience
+
+### Cyber Strategy & Transformation Intern
+**Deloitte India**
+
+Focused on enterprise cybersecurity concepts including
+
+- Security Operations
+- Network Security
+- Governance
+- Risk Management
+- Compliance
+- Linux
+- Hack The Box Labs
+
+---
+
+### Software Engineering Intern
+**Comviva**
+
+Worked on testing predictive analytics modules and supporting engineering documentation.
+
+---
+
+### Data Analyst Intern
+**NuvoRetail**
+
+Built Selenium-based automation pipelines and performed product data analysis.
+
+---
+
+# Certifications
+
+- Google Cybersecurity Certificate
+- Microsoft AI & ML Engineering Professional Certificate
+
+---
+
+# Current Learning
+
+Currently exploring
+
+- Detection Engineering
+- Active Directory Security
+- SIEM Technologies
+- Threat Detection
+- Secure Software Design
+- Network Monitoring
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IshaanKetchup&show_icons=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanKetchup"/>
+
 </p>
 
-Feel free to reach out if you’re interested in collaborating or just want to chat about tech, AI, or anything else really
+---
+
+# Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ishaan-kashyap">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+
+</a>
+
+</p>
 
 ---
 
-### 🎉 Fun Facts
-- Studying in Vellore  
-- A huge fan of Metal, Rock, Jazz and Piano music  
-- Enjoys reading, basketball, and videogames  
+> *I enjoy building software that solves practical security problems while continuously improving my understanding of defensive security and secure system design.*
 
-Thanks for visiting my GitHub profile! If you find something interesting or have any feedback, don’t hesitate to star or fork one of my repos!  
-![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)  
+![Profile views](https://komarev.com/ghpvc/?username=IshaanKetchup)
