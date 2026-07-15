@@ -76,7 +76,7 @@ I enjoy building security-focused software, from intrusion detection systems and
 
 <td align="center" width="40%">
 
-[![Ishaan's GitHub stats](https://github-stats-extended.vercel.app/api?username=IshaanKetchup)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IshaanKetchup&layout=donut-vertical&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IshaanKetchup&layout=donut-vertical&langs_count=7&theme=dark)
 </td>
 
 </tr>
